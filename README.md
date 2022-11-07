@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on API stuff
+- 🌱 I’m currently working with Python, AWS CDK, FAST-API :)
+- 📫 How to reach me: ivan.kalinets@gmail.com
+- ⚡ Fun fact: i used to be a pro-player in computer games
 <!--
 **dreamxgod/dreamxgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
