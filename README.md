@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [DarksotreApp](https://github.com/DarkstoreApp)
 
-- 🌱 I’m currently working with **Python, AWS, AWS-CDK, FAST-APII**
+- 🌱 I’m currently working with **Python, AWS, AWS-CDK, FAST-API**
 
 - 📫 How to reach me **ivan.kalinets@gmail.com**
 
