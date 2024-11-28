@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Kalinets</h1>
-<h3 align="center">Junior backend developer</h3>
+<h3 align="center">Junior Strong backend developer</h3>
 
-- 🔭 I’m currently working in [DarksotreApp](https://github.com/DarkstoreApp)
+- 🔭 I’m currently working in [Knubisoft](https://knubisoft.com/)
 
 - 🌱 I’m currently working with **Python, AWS, AWS-CDK, FAST-API**
 
